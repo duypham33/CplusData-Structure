@@ -1,0 +1,7 @@
+﻿  BST.cpp
+  main.cpp
+C:\Users\ADMIN\Desktop\CPT_S 122\Class Codes\BST5\BST\main.cpp(53,17): error C2512: 'Node<Rational>': no appropriate default constructor available
+C:\Users\ADMIN\Desktop\CPT_S 122\Class Codes\BST5\BST\main.cpp(53,2): message : see declaration of 'Node<Rational>'
+  Node.cpp
+  Rational.cpp
+  Generating Code...
