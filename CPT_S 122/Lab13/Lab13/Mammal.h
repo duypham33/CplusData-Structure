@@ -1,0 +1,19 @@
+#pragma once
+
+#include <iostream>
+
+using std::cout;
+using std::cin;
+using std::endl;
+
+class Mammal
+{
+public:
+    Mammal(void);
+    virtual ~Mammal(void);
+    virtual void Move() const;
+    virtual void Speak() const;
+
+protected:
+    int itsAge;
+};

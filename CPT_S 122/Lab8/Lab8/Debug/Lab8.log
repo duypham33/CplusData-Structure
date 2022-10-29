@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\WSU Fall 2021\CPT_S 122\Lab8\Lab8\main.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\Lab8\Lab8\main.cpp(56): message : see reference to function template instantiation 'std::ostream &operator <<<T>(std::ostream &,std::vector<T,std::allocator<T>> &)' being compiled
+          with
+          [
+              T=int
+          ]
+  Lab8.vcxproj -> D:\WSU Fall 2021\CPT_S 122\Lab8\Debug\Lab8.exe
