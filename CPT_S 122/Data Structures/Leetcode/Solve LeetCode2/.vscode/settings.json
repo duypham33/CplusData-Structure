@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/ADMIN/Desktop/Data Structures/Leetcode/Solve LeetCode2",
+            "binaryPath": "/mnt/c/Users/ADMIN/Desktop/Data Structures/Leetcode/Solve LeetCode2/out",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
