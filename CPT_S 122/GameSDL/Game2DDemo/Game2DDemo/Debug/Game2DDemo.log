@@ -1,0 +1,5 @@
+﻿  defined_functions.cpp
+C:\Users\ADMIN\Desktop\GameSDL\Game2DDemo\Game2DDemo\defined_functions.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Game2DDemo.vcxproj -> C:\Users\ADMIN\Desktop\GameSDL\Game2DDemo\Debug\Game2DDemo.exe
