@@ -1,0 +1,10 @@
+Mort,Kris was absent 0 time(s)
+Willis,Bruce was absent 0 time(s)
+Smith,Jane was absent 1 time(s) with the most recent date 11 / 11 / 2021
+Sam,Theo was absent 0 time(s)
+Payton,Ella was absent 0 time(s)
+James,Hannah was absent 0 time(s)
+Art,Bruce was absent 1 time(s) with the most recent date 11 / 11 / 2021
+Leinart,Timothy was absent 1 time(s) with the most recent date 11 / 11 / 2021
+Beck,Sara was absent 0 time(s)
+Smith,John was absent 0 time(s)
