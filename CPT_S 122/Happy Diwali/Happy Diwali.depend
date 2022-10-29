@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477658646 source:c:\users\satyadipan\desktop\happy diwali\main.c
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<locale.h>
+
