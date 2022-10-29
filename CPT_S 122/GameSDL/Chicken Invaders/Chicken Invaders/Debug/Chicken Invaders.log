@@ -1,0 +1,27 @@
+﻿  Bullet.cpp
+  CommonFunctions.cpp
+  Game.cpp
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(108,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(113,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(310,48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(336,48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(552,25): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(554,16): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(582,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(584,23): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(622,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(629,35): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(631,25): warning C4018: '<': signed/unsigned mismatch
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\Game.cpp(1122,16): warning C4150: deletion of pointer to incomplete type '_TTF_Font'; no destructor called
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\SDL\SDL2_ttf_2_0_11\include\SDL_ttf.h(77): message : see declaration of '_TTF_Font'
+  main.cpp
+  MainObject.cpp
+  TextObject.cpp
+  ThreatObject.cpp
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\ThreatObject.cpp(64,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\ThreatObject.cpp(103,31): warning C4244: '+=': conversion from 'double' to 'Sint16', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\ThreatObject.cpp(104,30): warning C4244: '+=': conversion from 'double' to 'Sint16', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\ThreatObject.cpp(140,30): warning C4244: '+=': conversion from 'double' to 'Sint16', possible loss of data
+D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Chicken Invaders\ThreatObject.cpp(152,30): warning C4244: '+=': conversion from 'double' to 'Sint16', possible loss of data
+  Generating Code...
+  Chicken Invaders.vcxproj -> D:\WSU Fall 2021\CPT_S 122\GameSDL\Chicken Invaders\Debug\Chicken Invaders.exe
